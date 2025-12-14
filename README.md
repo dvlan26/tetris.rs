@@ -1,4 +1,5 @@
 <img src="img/tetris.gif" align="right">
+
 # Tetris.rs — 俄罗斯方块（Piston + Rust）  
 A small Tetris clone written in Rust using piston_window.  
 一个用 Rust 和 piston_window 实现的简易俄罗斯方块游戏。
