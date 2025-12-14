@@ -168,3 +168,17 @@ if self.time_since_fall.elapsed() <= Duration::from_millis(400) {
 See the LICENSE file in this repository for license details.
 
 ---
+
+## 贡献者 / Contributors
+
+<div align="center">
+  <h4 align="center">
+    The core contributors are the cornerstone of the project.
+  </h4>
+  <a href="https://github.com/YuzeHao2023" target="_blank">
+    <img src="https://github.com/YuzeHao2023.png" width="100" height="100" style="border-radius: 50%; margin: 0 10px; object-fit: cover;" alt="YuzeHao2023" />
+  </a>
+  <a href="https://github.com/dvlan26" target="_blank">
+    <img src="https://github.com/dvlan26.png" width="100" height="100" style="border-radius: 50%; margin: 0 10px; object-fit: cover;" alt="dvlan26" />
+  </a>  
+</div>
