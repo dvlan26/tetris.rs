@@ -168,13 +168,3 @@ if self.time_since_fall.elapsed() <= Duration::from_millis(400) {
 See the LICENSE file in this repository for license details.
 
 ---
-
-如果你希望我：
-- 根据仓库已有的 gif 名称替换 README 中的 demo 路径，或者  
-- 生成一个更短的 README 版本、添加徽章（badges）、或写一个针对 Windows/macOS 的“快速安装依赖”指南，  
-请告诉我 gif 的确切名称或你希望的额外内容。  
-
-If you'd like me to:
-- Replace the demo path with the exact gif filename from the repo, or  
-- Produce a shorter README, add badges, or write platform-specific dependency instructions (Windows/macOS/Linux),  
-tell me the exact gif filename or what extra content you want.
